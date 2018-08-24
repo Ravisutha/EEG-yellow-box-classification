@@ -1,5 +1,4 @@
 # Epileptic transients detection in EEG signals
------
 The objective is to detect epileptic transients in the EEG signals. The data contains eeg signals sampled at different sampling rates. The training set contains yellow box annotations to indicate the presence of the transients.
 
 ### Classification Model
@@ -15,5 +14,3 @@ Following are some packages that are a must to run the code.
 ### Author
 -----
 * [Ravisutha Sakrepatna Srinivasamurthy](https://www.linkedin.com/in/ravisutha/)
-
-
